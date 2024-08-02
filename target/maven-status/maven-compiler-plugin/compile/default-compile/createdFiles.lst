@@ -1,0 +1,9 @@
+com/example/productmanagement/repository/ProductRepository.class
+com/example/productmanagement/service/ManufacturerService.class
+com/example/productmanagement/model/Manufacturer.class
+com/example/productmanagement/ProductManagementApplication.class
+com/example/productmanagement/controller/ProductController.class
+com/example/productmanagement/repository/ManufacturerRepository.class
+com/example/productmanagement/service/ProductService.class
+com/example/productmanagement/controller/ManufacturerController.class
+com/example/productmanagement/model/Product.class
